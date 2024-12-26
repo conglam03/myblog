@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "My Blog",
+    "description": "",
+    "home_page_url": "https://github.com/conglam03/myblog.git",
+    "feed_url": "https://github.com/conglam03/myblog.git/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "conlam03"
+    },
+    "items": [
+        {
+            "id": "https://github.com/conglam03/myblog.git/blog01.html",
+            "url": "https://github.com/conglam03/myblog.git/blog01.html",
+            "title": "Blog01",
+            "summary": "5y35e4yher34y",
+            "content_html": "<p>5y35e4yher34y</p>",
+            "author": {
+                "name": "conlam03"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-12-26T10:33:11+07:00",
+            "date_modified": "2024-12-26T10:33:11+07:00"
+        }
+    ]
+}

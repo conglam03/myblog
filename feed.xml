@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>My Blog</title>
+    <link href="https://github.com/conglam03/myblog.git/feed.xml" rel="self" />
+    <link href="https://github.com/conglam03/myblog.git" />
+    <updated>2024-12-26T10:33:11+07:00</updated>
+    <author>
+        <name>conlam03</name>
+    </author>
+    <id>https://github.com/conglam03/myblog.git</id>
+
+    <entry>
+        <title>Blog01</title>
+        <author>
+            <name>conlam03</name>
+        </author>
+        <link href="https://github.com/conglam03/myblog.git/blog01.html"/>
+        <id>https://github.com/conglam03/myblog.git/blog01.html</id>
+
+        <updated>2024-12-26T10:33:11+07:00</updated>
+            <summary>
+                <![CDATA[
+                    5y35e4yher34y
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>5y35e4yher34y</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
